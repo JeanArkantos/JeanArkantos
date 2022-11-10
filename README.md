@@ -26,11 +26,12 @@ I already know a bit of Python and programming logic that I learned on my own a 
 Since I like to learn on my own, i'm studying with courses on the internet, mostly free, but also some paid.
 
 - [CS50 by Harvard](https://pll.harvard.edu/course/cs50-introduction-computer-science)
+- [edX Courses](https://www.edx.org)
 - [FreeCodeCamp.](https://www.freecodecamp.org)
 - [The Odin Project.](https://www.theodinproject.com)
 - [w3schools.](https://www.w3schools.com)
-- [OneBitCode (Full Stack Developter)](lp.onebitcode.com/)
-- I plan to join some [Alura](Alura.com.br) and [Udemy](Udemy.com) courses in the future.
+- [OneBitCode (Full Stack Developter)](https://lp.onebitcode.com)
+- I plan to join some [Alura](Alura.com.br](https://www.alura.com.br) and [Udemy](https://www.udemy.com) courses in the future.
 - Youtube and Google whatever I find google information.
 - I also intend to start a college in the IT field next year.
 - I don't have any certificates yet because I just started.
