@@ -31,7 +31,7 @@ Since I like to learn on my own, i'm studying with courses on the internet, most
 - [The Odin Project.](https://www.theodinproject.com)
 - [w3schools.](https://www.w3schools.com)
 - [OneBitCode (Full Stack Developter)](https://lp.onebitcode.com)
-- I plan to join some [Alura](Alura.com.br](https://www.alura.com.br) and [Udemy](https://www.udemy.com) courses in the future.
+- I plan to join some [Alura](https://www.alura.com.br) and [Udemy](https://www.udemy.com) courses in the future.
 - Youtube and Google whatever I find google information.
 - I also intend to start a college in the IT field next year.
 - I don't have any certificates yet because I just started.
