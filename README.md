@@ -38,7 +38,7 @@ Since I like to learn on my own, i'm studying with courses on the internet, most
 
 ## My links and Social Midias
 
-- [LinkedIn](https://www.linkedin.com/in/jean-arkantos-79928a256/)
+- [LinkedIn](https://www.linkedin.com/in/jean-ricardo-79928a256/))
 - [Twitter](https://twitter.com/Arkantosjoga)
 - [Youtube (Gaming Channel)](https://www.youtube.com/c/Arkantos)
 - [Youtube (New IT Channel)](https://www.youtube.com/channel/UCPYSedZKOirwUfxV-yaR-Yw)
