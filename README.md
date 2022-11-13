@@ -23,6 +23,11 @@ I already know a bit of Python and programming logic that I learned on my own a 
 
 ## Places I'm studying
 
+My current project is to make 20 landing pages for the Frontend Mentor website. You can access the project [here.](https://github.com/JeanArkantos/Frontend_Mentor_Project)
+
+
+## Places I'm studying
+
 Since I like to learn on my own, i'm studying with courses on the internet, mostly free, but also some paid.
 
 - [CS50 by Harvard](https://pll.harvard.edu/course/cs50-introduction-computer-science)
