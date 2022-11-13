@@ -21,7 +21,7 @@ I'm currently studying about 8-10 hours a day on various subjects related to the
 
 I already know a bit of Python and programming logic that I learned on my own a few years ago. But I intend to delve deeper into Python and maybe C# in the future.
 
-## Places I'm studying
+## My Projects
 
 My current project is to make 20 landing pages for the Frontend Mentor website. You can access the project [here.](https://github.com/JeanArkantos/Frontend_Mentor_Project)
 
