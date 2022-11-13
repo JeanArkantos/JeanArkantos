@@ -23,7 +23,7 @@ I already know a bit of Python and programming logic that I learned on my own a 
 
 ## My Projects
 
-My current project is to make 20 landing pages for the Frontend Mentor website. You can access the project [here.](https://github.com/JeanArkantos/Frontend_Mentor_Project)
+My current project is to make 20 landing pages from Frontend Mentor website. You can access the project [here.](https://github.com/JeanArkantos/Frontend_Mentor_Project)
 
 
 ## Places I'm studying
