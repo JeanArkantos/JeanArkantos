@@ -32,6 +32,16 @@ I've been a self-taught person since I was a child, but it wasn't until the end 
 
 ## My links and Social Midias
 
+<div> 
+  <a href="https://www.linkedin.com/in/jean-ricardo-79928a256/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://twitter.com/Arkantosjoga" target="_blank"><img src="https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+  <a href="www.youtube.com/arkantos" target="_blank"><img src="https://img.shields.io/badge/YouTube (Gaming)-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.youtube.com/@falaarkantos" target="_blank"><img src="https://img.shields.io/badge/YouTube (Dev)-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/arkantosjoga" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:arkantos.creator@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+</div>
+
 - [LinkedIn](https://www.linkedin.com/in/jean-ricardo-79928a256/)
 - [Twitter](https://twitter.com/Arkantosjoga)
 - [Youtube (Gaming Channel)](https://www.youtube.com/c/Arkantos)
