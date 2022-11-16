@@ -39,5 +39,4 @@ I've been a self-taught person since I was a child, but it wasn't until the end 
   <a href="https://www.youtube.com/@falaarkantos" target="_blank"><img src="https://img.shields.io/badge/YouTube (Dev)-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/arkantosjoga" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:arkantos.creator@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
-  <a href = "https://wa.me/5547984247576"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
-" target="_blank"></a> 
+  <a href = "https://wa.me/5547984247576"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
