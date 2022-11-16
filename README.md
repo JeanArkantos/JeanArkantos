@@ -1,10 +1,26 @@
-﻿# Welcome to My GitHub!
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeanArkantos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Who am I?
 
-My name is Jean and I'm 30 years old, I'm studying to become a full stack web developer. Right now I'm studying HTML, CSS and JavaScript. But I intend to start studying these other topics soon: React, NativeReact, Sass, Bootstrap, NodeJS, MongoDB, PostgreSQL, TypeScript and many others
+My name is Jean and I'm studying to become a full stack web developer. Right now I'm studying HTML, CSS and JavaScript. But I intend to start studying these other topics soon: React, NativeReact, Sass, Bootstrap, NodeJS, MongoDB, PostgreSQL, TypeScript and many others
+<div style="display: inline_block">
+  <p> Studying Right Now: 
+  <img align="center" alt="Jean-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Jean-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Jean-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+</div>
+<div style="display: inline_block"><br>
+  <p> I will study: 
+  <img align="center" alt="Jean-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Jean-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Jean-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Jean-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Jean-bootstrap" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+  <img align="center" alt="Jean-sass" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+  <img align="center" alt="Jean-mongodb" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="Jean-azure" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
+  <img align="center" alt="Jean-electron" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" />
+  <img align="center" alt="Jean-jest" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+  <img align="center" alt="Jean-selenium" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
+</div>
 
 ## My Story
 
