@@ -1,25 +1,17 @@
 ﻿# Welcome to My GitHub!
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeanArkantos)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## Who am I?
 
-My name is Jean and I'm 30 years old, I'm studying to become a full stack web developer. I've been a self-taught person since I was a child, but it wasn't until the end of 2022 that I decided to join the web development area. I have two Youtube channels, one focused on strategy games with 150k subscribers and a new one focused on my new journey as a programmer.
+My name is Jean and I'm 30 years old, I'm studying to become a full stack web developer. Right now I'm studying HTML, CSS and JavaScript. But I intend to start studying these other topics soon: React, NativeReact, Sass, Bootstrap, NodeJS, MongoDB, PostgreSQL, TypeScript and many others
+
+## My Story
+
+I've been a self-taught person since I was a child, but it wasn't until the end of 2022 that I decided to join the web development area. I have two Youtube channels, one focused on strategy games with 150k subscribers and a new one focused on my new journey as a programmer.
 
 I'm currently studying about 8-10 hours a day on various subjects related to the area, I intend to dedicate myself to learning as much as possible.
-
-## Topics I'm Studying
-
-- HTML  
-- CSS  
-- JavaScript  
-- Sass & Bootstrap  
-- React & NativeReact  
-- NodeJS  
-- MongoDB & PostgreSQL
-- TypeScript  
-- Electron
-- Many others
-
-I already know a bit of Python and programming logic that I learned on my own a few years ago. But I intend to delve deeper into Python and maybe C# in the future.
 
 ## My Projects
 
