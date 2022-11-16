@@ -22,30 +22,13 @@ My name is Jean and I'm studying to become a **full stack web developer**. Right
   <img align="center" alt="Jean-selenium" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
 </div>
 
-## My Story
-
-I've been a self-taught person since I was a child, but it wasn't until the end of 2022 that I decided to join the web development area. I have two Youtube channels, one focused on strategy games with 150k subscribers and a new one focused on my new journey as a programmer.
-
-I'm currently studying about 8-10 hours a day on various subjects related to the area, I intend to dedicate myself to learning as much as possible.
-
 ## My Projects
 
 - [20 Landings Pages from Frontend Mentor](https://github.com/JeanArkantos/Frontend_Mentor_Project)
 
-## Places I'm studying
+## My Story
 
-Since I like to learn on my own, i'm studying with courses on the internet, mostly free, but also some paid.
-
-- [CS50 by Harvard](https://pll.harvard.edu/course/cs50-introduction-computer-science)
-- [edX Courses](https://www.edx.org)
-- [FreeCodeCamp.](https://www.freecodecamp.org)
-- [The Odin Project.](https://www.theodinproject.com)
-- [w3schools.](https://www.w3schools.com)
-- [OneBitCode (Full Stack Developter)](https://lp.onebitcode.com)
-- I plan to join some [Alura](https://www.alura.com.br) and [Udemy](https://www.udemy.com) courses in the future.
-- Youtube and Google whatever I find google information.
-- I also intend to start a college in the IT field next year.
-- I don't have any certificates yet because I just started.
+I've been a self-taught person since I was a child, but it wasn't until the end of 2022 that I decided to join the web development area. I have two Youtube channels, one focused on strategy games with 150k subscribers and a new one focused on my new journey as a programmer. I'm currently studying about 8-10 hours a day on various subjects related to the area, I intend to dedicate myself to learning as much as possible.
 
 ## My links and Social Midias
 
