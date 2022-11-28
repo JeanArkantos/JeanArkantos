@@ -1,4 +1,6 @@
-﻿# Who am I?<img align="center" alt="Jean-HTML" height="30" width="40" src="/img/united-states-flag-icon.svg"/>[ENGLISH VERSION HERE]()<img align="center" alt="Jean-HTML" height="30" width="40" src="/img/united-kingdom-flag-icon.svg"/>
+﻿# Who am I?
+
+<img align="center" alt="Jean-HTML" height="30" width="40" src="/img/united-states-flag-icon.svg"/>[ENGLISH VERSION HERE]()<img align="center" alt="Jean-HTML" height="30" width="40" src="/img/united-kingdom-flag-icon.svg"/>
 
 My name is Jean and I'm studying to become a **full stack web developer**. Right now I'm studying **HTML**, **CSS** and **JavaScript**. But I intend to start studying these other topics soon: **React, NativeReact, Sass, Bootstrap, NodeJS, MongoDB, PostgreSQL, TypeScript** and many others
 
