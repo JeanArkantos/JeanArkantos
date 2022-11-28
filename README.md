@@ -3,8 +3,8 @@
 My name is Jean and I'm studying to become a **full stack web developer**. Right now I'm studying **HTML**, **CSS** and **JavaScript**. But I intend to start studying these other topics soon: **React, NativeReact, Sass, Bootstrap, NodeJS, MongoDB, PostgreSQL, TypeScript** and many others
 <div style="display: inline_block">
   <p> Studying Right Now: 
-  <img align="center" alt="Jean-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
-  <img align="center" alt="Jean-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
+  <img align="center" alt="Jean-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="Jean-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Jean-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 <div style="display: inline_block"><br>
