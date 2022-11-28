@@ -1,6 +1,6 @@
 ﻿# Quem sou eu?
 
-<img align="center" alt="Jean-HTML" height="30" width="40" src="/img/united-states-flag-icon.svg"/>[ENGLISH VERSION HERE](https://github.com/JeanArkantos/Arkantos_ReadMe_English/blob/main/README.md)<img align="center" alt="Jean-HTML" height="30" width="40" src="/img/united-kingdom-flag-icon.svg"/>
+<img align="center" alt="Jean-HTML" height="30" width="40" src="/img/united-states-flag-icon.svg"/>[ ENGLISH VERSION HERE ](https://github.com/JeanArkantos/Arkantos_ReadMe_English/blob/main/README.md)<img align="center" alt="Jean-HTML" height="30" width="40" src="/img/united-kingdom-flag-icon.svg"/>
 
 Meu nome é Jean e estou estudando para se tornar um desenvolver web **Full Stack**. Nesse momento estou estudando **HTML, CSS e Javascript**. Mas pretendo começar a estudar em breve: **React, NativeReact, Sass, Bootstrap, NodeJS, MongoDB, PostgreSQL, TypeScript** entre outras tecnologias.
 
