@@ -1,4 +1,4 @@
-# Who am I?
+# Who am I? &#127480[ENGLISH VERSION HERE]()&#127463
 
 My name is Jean and I'm studying to become a **full stack web developer**. Right now I'm studying **HTML**, **CSS** and **JavaScript**. But I intend to start studying these other topics soon: **React, NativeReact, Sass, Bootstrap, NodeJS, MongoDB, PostgreSQL, TypeScript** and many others
 <div style="display: inline_block">
