@@ -31,7 +31,7 @@ Meu nome é Jean e estou estudando para se tornar um desenvolver web **Full Stac
 
 ## Minha História
 
-Meu nome é Jean e tenho 30 anos, sou uma pessoa bastante criativa e autodidata, no final de 2022 decidi ingressar na área de desenvolvimento web. Tenho dois canais no Youtube, um focado em jogos de estratégia com 150 mil inscritos e outro focado na minha nova jornada como programador.
+Sou uma pessoa bastante criativa e autodidata, no final de 2022 decidi ingressar na área de desenvolvimento web. Tenho dois canais no Youtube, um focado em jogos de estratégia com 150 mil inscritos e outro focado na minha nova jornada como programador.
 
 
 ## Mídias Sociais
