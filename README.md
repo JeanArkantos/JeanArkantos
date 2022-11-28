@@ -1,17 +1,17 @@
-﻿# Who am I?
+﻿# Quem sou eu?
 
-<img align="center" alt="Jean-HTML" height="30" width="40" src="/img/united-states-flag-icon.svg"/>[ENGLISH VERSION HERE]()<img align="center" alt="Jean-HTML" height="30" width="40" src="/img/united-kingdom-flag-icon.svg"/>
+<img align="center" alt="Jean-HTML" height="30" width="40" src="/img/united-states-flag-icon.svg"/>[ENGLISH VERSION HERE](https://github.com/JeanArkantos/Arkantos_ReadMe_English/blob/main/README.md)<img align="center" alt="Jean-HTML" height="30" width="40" src="/img/united-kingdom-flag-icon.svg"/>
 
-My name is Jean and I'm studying to become a **full stack web developer**. Right now I'm studying **HTML**, **CSS** and **JavaScript**. But I intend to start studying these other topics soon: **React, NativeReact, Sass, Bootstrap, NodeJS, MongoDB, PostgreSQL, TypeScript** and many others
+Meu nome é Jean e estou estudando para se tornar um desenvolver web **Full Stack**. Nesse momento estou estudando **HTML, CSS e Javascript**. Mas pretendo começar a estudar em breve:**React, NativeReact, Sass, Bootstrap, NodeJS, MongoDB, PostgreSQL, TypeScript** entre outras tecnologias.
 
 <div style="display: inline_block">
-  <p> Studying Right Now: 
+  <p> Estudando e Criando Projetos neste momento: 
   <img align="center" alt="Jean-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Jean-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Jean-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 <div style="display: inline_block"><br>
-  <p> I will study: 
+  <p> Vou começar a estudar e criar projetos em breve: 
   <img align="center" alt="Jean-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Jean-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Jean-bootstrap" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
@@ -25,15 +25,16 @@ My name is Jean and I'm studying to become a **full stack web developer**. Right
   <img align="center" alt="Jean-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
-## My Projects
+## Meus Projetos Atuais
 
 - [20 Landings Pages from Frontend Mentor](https://github.com/JeanArkantos/Frontend_Mentor_Project)
 
-## My Story
+## Minha História
 
-I've been a self-taught person since I was a child, but it wasn't until the end of 2022 that I decided to join the web development area. I have two Youtube channels, one focused on strategy games with 150k subscribers and a new one focused on my new journey as a programmer. I'm currently studying about 8-10 hours a day on various subjects related to the area, I intend to dedicate myself to learning as much as possible.
+Meu nome é Jean e tenho 30 anos, sou uma pessoa bastante criativa e autodidata, no final de 2022 decidi ingressar na área de desenvolvimento web. Tenho dois canais no Youtube, um focado em jogos de estratégia com 150 mil inscritos e outro focado na minha nova jornada como programador.
 
-## My links and Social Midias
+
+## Mídias Sociais
 
 <div> 
   <a href="https://www.linkedin.com/in/jean-ricardo-79928a256/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
